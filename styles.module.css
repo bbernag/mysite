@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+a {
+  box-shadow: none;
+  text-decoration: none;
+}
+
+svg {
+  fill: white;
+  height: 20px;
+  width: 20px;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url('../static/Fonts/Montserrat-Regular.ttf');
+}
